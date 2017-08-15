@@ -9,4 +9,8 @@ add test
 123~
 555~
 Creating a new branch is quick AND simple
+<<<<<<< HEAD
 hahaha~
+=======
+20170808
+>>>>>>> feature1
